@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TestRepoOneTemp_Tests' do
+  pod 'TestRepoOneTemp', :path => '../'
+  
+  
+end

@@ -1,0 +1,22 @@
+{
+  "name": "TestRepoOneTemp",
+  "version": "0.1.0",
+  "summary": "A short description of TestRepoOneTemp.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hao.wang24@amh-group.com/TestRepoOneTemp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hao.wang24@amh-group.com": "hao.wang24@amh-group.com"
+  },
+  "source": {
+    "git": "https://github.com/hao.wang24@amh-group.com/TestRepoOneTemp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestRepoOneTemp/Classes/**/*"
+}
